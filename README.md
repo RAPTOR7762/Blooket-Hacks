@@ -1,28 +1,8 @@
-README.md
-
-
-
- How to use hacks Down below
- 
-https://youtu.be/OJ24k56GdCk
-
-             
-TO THE PEOPLE SAYING THESE ARE FAKE AND WILL GET YOU BANNED READ BELOW:
-
-🌟PLEASE STAR THIS PROJECT🌟
-
-if you get banned this is not my issue
 # Blooket Hacks
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please say in discussions! 🌟PLEASE STAR THIS PROJECT🌟
-The original Blooket hack v4.2
-The Blooket Hack
-The Blooket Hack provided by glixzzy...
-
+This repo has been forked.
 
 Why you should use this tool:
-
-
 
 :Always working.
 :When the hacks break it usually gets fixed in about 6-8 hours.
@@ -32,14 +12,7 @@ Why you should use this tool:
 
 If you are a programmer and want to make your own stuff for blooket make sure to check out the blooket library. at schoolcheats.net/blooket
 
-Current Version
-Blooket Hack v4.2
-
-
-B̸̙͔̙̦͓̜̑̒̿̍̈̌̾̎͂̄̌̿̓̓̕Ḽ̵̢̼̫̑̐̓̿̈̂͑̈́͗̈́̊͆̽̄͒̎̈́͒̒̕̚͘͝Ò̴̡̺͓͉̺͍̼̘̣̙͍̙̦̣̖͔͛̿́̍̉͝O̴̧̧̻͍̭̜̼̣͚͉͈̱̭͉̙̭̫͖͖̳̘̞͙͉̪̠̎̓̓̾͗̂͂̂̑̀̂͝͠Ķ̸͎͎̬̗̯̝̃̿̿E̶͓͙̮̪̰̘̬͍̗͇̩̿ͅT̶̡͍͙̦̬̬̥̹̰̳̺̲̭͍͉̬͉̗̦͈̓̐̽͜
-
-
-If you want a code to be updated ecause it doesent work just post in the issues section and I will quickly fix it for you!
+If you want a code to be updated because it doesn't work please submit an issue in the original repo.
 
 Fixed More Codes!    Fixed Add Daily Tokens!!!!
 
