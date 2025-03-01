@@ -58,4 +58,3 @@ Updated all of the codes!
 Right click anywhere --> Inspect --> Console
 
 >allow pasting
->
