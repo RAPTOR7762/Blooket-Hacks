@@ -55,3 +55,7 @@ Updated all of the codes!
 
 # Usage
 
+Right click anywhere --> Inspect --> Console
+
+>allow pasting
+>
