@@ -18,33 +18,19 @@ If you want a code to be updated because it doesn't work please submit an issue 
 
 # Top 6 list of most popular/used codes...
 
-1. Add Daily Tokens 
-1. ADD Daily Tokens This code  will add 500 tokens which is the max daily limit and add the max xp which is 300 daily limit!
+1. **Add Daily Tokens** - ADD Daily Tokens This code  will add 500 tokens which is the max daily limit and add the max xp which is 300 daily limit!
+
+2. **Get Gold** - Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended!
+
+3. **Chest ESP** - Chest ESP Works in multiple gamemodes works best in gold quest once you use this code you wil be able to see what you will get in the chest before even clicking on it so it is very usefull!
 GlixzzyBlooketHacks/Glixzzy.github.io
 
-2. Get Gold
-2. Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended!
-GlixzzyBlooketHacks/Glixzzy.github.io
+5. **Get Crypto** - The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode.
 
-3. Chest ESP
-3. Chest ESP Works in multiple gamemodes works best in gold quest once you use this code you wil be able to see what you will get in the chest before even clicking on it so it is very usefull!
-GlixzzyBlooketHacks/Glixzzy.github.io.
-4. Get Crypto
-4. The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode.
-GlixzzyBlooketHacks/Glixzzy.github.io.
+6. **Get other users password** -  The get other users password code is slightly different to most of the other codes but when you are playing in the crypto hack gamemode and get the hack option in one of the chests use the code and it will tell you your victims password!
 
-
-
-5. Get other users password
-5. The get other users password code is slightly different to most of the other codes but when you are playing in the crypto hack gamemode and get the hack option in one of the chests use the code and it will tell you your victims password!
-GlixzzyBlooketHacks/Glixzzy.github.io.
-
-
-
-6. Instant Win
-6. Instant win code will automatically make you win in the racing mode
-GlixzzyBlooketHacks/Glixzzy.github.i
-
+6. **Instant Win** - Instant win code will automatically make you win in the racing mode
+   
 There you go!
 
 All codes still working!
